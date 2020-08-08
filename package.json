@@ -16,5 +16,6 @@
   "bugs": {
     "url": "https://github.com/bourdakos1/scope/issues"
   },
-  "homepage": "https://github.com/bourdakos1/scope#readme"
+  "homepage": "https://github.com/bourdakos1/scope#readme",
+  "engines" : { "node" : ">=14.0" }
 }
